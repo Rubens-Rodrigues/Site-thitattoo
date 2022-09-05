@@ -1,0 +1,16 @@
+@keyframes slider {
+    0%, 30% {background-image: url("img/banner-slide1.png");}
+    35%, 70% {background-image: url("img/banner-slide2.png");}
+    75%, 100% {background-image: url("img/banner-slide1.png");}
+        
+}
+@keyframes slider-tablet {
+    0%, 30% {background-image: url("img/banner-slide-tablet1.png");}
+    35%, 70% {background-image: url("img/banner-slide-tablet2.png");}
+    75%, 100% {background-image: url("img/banner-slide-tablet1.png");}
+}
+@keyframes slider-mobile {
+    0%, 30% {background-image: url("img/banner-slide-mobile1.png");}
+    35%, 70% {background-image: url("img/banner-slide-mobile2.png");}
+    75%, 100% {background-image: url("img/banner-slide-mobile1.png");}
+}
